@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/reset_running_method"
+        android:title="Reset Running Method" />
+
+    <item
+        android:id="@+id/reset_cycling_method"
+        android:title="Reset Cycling Method" />
+
+    <item
+        android:id="@+id/reset_all_method"
+        android:title="Reset All Method"/>
+
+</menu>
